@@ -4,4 +4,5 @@ module workshop.javafx.jdbc {
     requires javafx.controls;
 
     opens application;
+    opens gui;
 }
