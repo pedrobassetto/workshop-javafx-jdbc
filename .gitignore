@@ -4,6 +4,12 @@
 # Log file
 *.log
 
+# Build Folders
+bin/
+target/
+build/
+dist/
+
 # BlueJ files
 *.ctxt
 
